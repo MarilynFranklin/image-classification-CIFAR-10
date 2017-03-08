@@ -25,6 +25,6 @@
         
 5. Get the `public_ip` from terraform's output and visit the url in your browser: `x.x.x.x:8888`
 
-6. When your finished, you'll want to terminate the gpu instance so AWS does not continue to charge your account
+6. When you're finished, you'll want to terminate the gpu instance so AWS does not continue to charge your account
 
         terraform destroy terraform/
